@@ -5,4 +5,7 @@
     <i><%= place.address %></i><br /><br />
     <p><%= place.description %></p><br />
   </div>
+  <div class="col-10 offset-1">
+    <%= paginate @places %>
+  </div>
 <% end %>
