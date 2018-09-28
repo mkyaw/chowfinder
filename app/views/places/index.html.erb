@@ -4,6 +4,10 @@
     <h2><%= place.name %></h2><br />
     <i><%= place.address %></i><br /><br />
     <p><%= place.description %></p><br />
+
+    <% if place.user.present? %>
+      <small><%= place.user.email %></small>
+    <% end %>
   </div>
   <div class="col-10 offset-1">
     <%= paginate @places %>
