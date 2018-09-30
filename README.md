@@ -1,24 +1,15 @@
-# README
+# Chow Finder
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You can share your favorite places here on this web app.
 
-Things you may want to cover:
+Demo: [Chow Finder](https://github.com/mkyaw/chowfinder)
 
-* Ruby version
+You will be able to create an account and create new places.
 
-* System dependencies
+You can see other people's places but you will not be able to edit/delete unless you are the content creator.
 
-* Configuration
+## TODO
 
-* Database creation
+1. Add comments functionality
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+2. Add Google Geolocation with maps
