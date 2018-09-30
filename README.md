@@ -2,7 +2,7 @@
 
 You can share your favorite places here on this web app.
 
-Demo: [Chow Finder](https://github.com/mkyaw/chowfinder)
+Demo: [Chow Finder on Heroku](https://chowfinder-myo.herokuapp.com/)
 
 You will be able to create an account and create new places.
 
